@@ -45,7 +45,7 @@ h4.indifferent {
 }
 
 h4.dubious {
-    background: linear-gradient(to right, #dd4444, #a82527);
+    background: linear-gradient(to right, #a82527, #dd4444);
 }
 
 .dubious {
